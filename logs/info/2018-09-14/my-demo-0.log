@@ -1,0 +1,67 @@
+2018-09-14 10:10:24.244 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/ /home/xiaoan/myProject/img/1536891024242.png 1920*1080px
+2018-09-14 10:10:43.248 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 10:12:44.693 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/ /home/xiaoan/myProject/img/1536891164690.png 1920*1080px
+2018-09-14 10:12:55.649 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 10:13:40.703 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/ /home/xiaoan/myProject/img/1536891220700.png 1920*1080px
+2018-09-14 10:13:51.702 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 10:13:51.703 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:11003ms
+2018-09-14 10:15:58.213 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/ /home/xiaoan/myProject/img/1536891358212.png 1920*1080px
+2018-09-14 10:16:10.437 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 10:16:10.438 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:12s
+2018-09-14 10:22:57.566 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/2003394681/Gz9W9cQrw?ref=feedsdk&type=comment#_rnd1536891763145 /home/xiaoan/myProject/img/1536891777564.png 1920*1080px
+2018-09-14 10:23:08.429 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 10:23:08.430 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:10s
+2018-09-14 10:31:46.612 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://codeday.me/bug/20180124/121342.html /home/xiaoan/myProject/img/1536892306609.png 1920*1080px
+2018-09-14 10:31:57.666 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 10:31:57.666 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:11s
+2018-09-14 10:33:03.425 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/?category=12 /home/xiaoan/myProject/img/1536892383422.png 1920*1080px
+2018-09-14 10:33:54.318 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 10:33:54.319 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:50s
+2018-09-14 14:02:35.937 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs null https://weibo.com/?category=12 /home/xiaoan/myProject/img/1536904955934.png 1920*1080px
+2018-09-14 14:02:36.249 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:
+2018-09-14 14:04:19.074 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs null https://weibo.com/?category=12 /home/xiaoan/myProject/img/1536905059071.png 1920*1080px
+2018-09-14 14:04:19.310 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:
+2018-09-14 14:04:52.177 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/?category=12 /home/xiaoan/myProject/img/1536905092175.png 1920*1080px
+2018-09-14 14:05:04.497 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/?category=12 /home/xiaoan/myProject/img/1536905104495.png 1920*1080px
+2018-09-14 14:05:04.705 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:
+2018-09-14 14:05:17.194 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/?category=12 /home/xiaoan/myProject/img/1536905117192.png 1920*1080px
+2018-09-14 14:05:32.313 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 14:05:32.313 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:15s
+2018-09-14 18:24:44.269 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536920684267.png 800*600px
+2018-09-14 18:25:00.971 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:25:00.972 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:16s
+2018-09-14 18:30:29.091 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921029089.png 1920*600px
+2018-09-14 18:31:58.755 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921118753.png 1920*600px
+2018-09-14 18:32:20.902 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:32:20.903 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:22s
+2018-09-14 18:33:02.555 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921182553.png 1920*600px
+2018-09-14 18:33:19.151 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:33:19.151 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:16s
+2018-09-14 18:34:18.890 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921258888.png 1920*600px
+2018-09-14 18:34:33.860 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:34:33.861 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:14s
+2018-09-14 18:35:26.387 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921326385.png 1920*600px
+2018-09-14 18:35:45.598 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:35:45.598 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:19s
+2018-09-14 18:36:23.689 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921383686.png 1920*600px
+2018-09-14 18:36:41.436 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:36:41.437 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:17s
+2018-09-14 18:37:44.999 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921464997.png 1920*600px
+2018-09-14 18:38:09.804 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921489801.png 1920*0px
+2018-09-14 18:38:25.001 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:38:25.002 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:15s
+2018-09-14 18:38:41.890 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921521888.png 1920*3000px
+2018-09-14 18:38:57.421 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:38:57.421 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:15s
+2018-09-14 18:40:52.450 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921652447.png 1920*1080px
+2018-09-14 18:41:08.808 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:41:08.808 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:16s
+2018-09-14 18:43:17.775 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921797773.png 100*80px
+2018-09-14 18:43:34.265 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:43:34.265 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:16s
+2018-09-14 18:44:39.226 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536921879223.png 1920*80px
+2018-09-14 18:44:58.652 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:44:58.652 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:19s
+2018-09-14 18:47:33.620 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536922053618.png 1920*80px
+2018-09-14 18:47:50.511 [INFO ] xiaoan.com.tool.PhantomTools - 关闭进程，返回结果:success
+2018-09-14 18:47:50.511 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:16s

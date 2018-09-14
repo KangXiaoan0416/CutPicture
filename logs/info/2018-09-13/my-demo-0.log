@@ -1,0 +1,64 @@
+2018-09-13 15:28:10.792 [INFO ] xiaoan.com.LogTest - logback的--info日志--输出了
+2018-09-13 15:34:19.051 [INFO ] xiaoan.com.LogTest - logback的--info日志--输出了
+2018-09-13 15:34:32.486 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs --cookies-file cookies.txt rasterize.js https://www.thepaper.cn/
+2018-09-13 15:35:47.349 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/
+2018-09-13 15:40:45.397 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/
+2018-09-13 15:41:02.167 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn//home/xiaoan/myProject/img/1536824456282.png
+2018-09-13 15:41:35.216 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536824495214.png
+2018-09-13 15:43:36.170 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536824616168.png
+2018-09-13 15:44:14.075 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjsrasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536824654073.png
+2018-09-13 15:44:33.173 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536824673171.png
+2018-09-13 16:14:27.559 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536826467557.png 1000*800
+2018-09-13 16:21:13.577 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536826873574.png 1000*800px
+2018-09-13 16:27:35.126 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536827255124.png 1000*800px >output.txt
+2018-09-13 16:29:38.686 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536827378683.png 1000*800px>output.txt
+2018-09-13 16:33:35.140 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536827615138.png 1000*800px
+2018-09-13 16:34:55.838 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536827695836.png 1000*800px
+2018-09-13 16:37:27.910 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536827847908.png 1000*800px
+2018-09-13 16:37:55.060 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536827875057.png 1000*800px
+2018-09-13 17:05:52.358 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.thepaper.cn/ /home/xiaoan/myProject/img/1536829552356.png 1000*800px
+2018-09-13 17:25:02.329 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/1695617141/home?wvr=5 /home/xiaoan/myProject/img/1536830702327.png 1000*800px
+2018-09-13 17:29:27.217 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/1695617141/home?wvr=5 /home/xiaoan/myProject/img/1536830967215.png 1000*800px
+2018-09-13 17:29:39.128 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/1695617141/home?wvr=5 /home/xiaoan/myProject/img/1536830979126.png 1000*800px
+2018-09-13 17:30:06.768 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname /home/xiaoan/myProject/img/1536831006766.png 1000*800px
+2018-09-13 17:30:51.907 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname /home/xiaoan/myProject/img/1536831051902.png 1000*800px
+2018-09-13 17:31:02.700 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname /home/xiaoan/myProject/img/1536831062697.png 1000*800px
+2018-09-13 17:32:29.049 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.xinmin.cn/ /home/xiaoan/myProject/img/1536831149045.png 1000*800px
+2018-09-13 17:34:06.293 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536831246290.png 1920*1080px
+2018-09-13 17:44:05.343 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536831845341.png 1920*1080px
+2018-09-13 17:48:09.166 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536832084483.png 1920*1080px
+2018-09-13 17:48:23.088 [INFO ] xiaoan.com.tool.PhantomTools - 获取网页截图完成,耗时:17057ms
+2018-09-13 17:49:02.052 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536832140842.png 1920*1080px
+2018-09-13 18:02:45.958 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536832965956.png 1920*1080px>out.txt
+2018-09-13 18:03:38.347 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833018346.png 1920*1080px>out.txt
+2018-09-13 18:03:52.766 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833032764.png 1920*1080px>out.txt
+2018-09-13 18:07:02.917 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833222915.png 1920*1080px
+2018-09-13 18:08:50.288 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833330286.png 1920*1080px
+2018-09-13 18:09:04.677 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833344675.png 1920*1080px
+2018-09-13 18:09:22.356 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833362353.png 1920*1080px
+2018-09-13 18:09:50.631 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833390628.png 1920*1080px
+2018-09-13 18:10:02.253 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833402250.png 1920*1080px
+2018-09-13 18:10:41.276 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833441273.png 1920*1080px
+2018-09-13 18:11:31.461 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833491459.png 1920*1080px
+2018-09-13 18:12:00.913 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833520912.png 1920*1080px>out.txt
+2018-09-13 18:14:31.677 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833671676.png 1920*1080px >out.txt
+2018-09-13 18:15:12.021 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833712020.png 1920*1080px > out.txt
+2018-09-13 18:15:32.954 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536833732951.png 1920*1080px > out.txt
+2018-09-13 18:29:22.980 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536834559286.png 1920*1080px
+2018-09-13 19:39:38.818 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536838778815.png 1920*1080px
+2018-09-13 19:40:00.305 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536838800302.png 1920*1080px
+2018-09-13 19:40:18.887 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536838818885.png 1920*1080px
+2018-09-13 19:40:45.102 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536838845100.png 1920*1080px
+2018-09-13 19:40:58.996 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js http://www.wenweipo.com/ /home/xiaoan/myProject/img/1536838858993.png 1920*1080px
+2018-09-13 19:41:40.111 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536838900108.png 1920*1080px
+2018-09-13 19:48:14.312 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536839294309.png 1920*1080px
+2018-09-13 19:50:27.685 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://www.cnblogs.com/jinxiao-pu/p/8596027.html /home/xiaoan/myProject/img/1536839427682.png 1920*1080px
+2018-09-13 19:56:30.660 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs --ssl-protocol=rasterize.js https://www.cnblogs.com/jinxiao-pu/p/8596027.html /home/xiaoan/myProject/img/1536839790656.png 1920*1080px
+2018-09-13 19:59:04.194 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536839944191.png 1920*1080px
+2018-09-13 19:59:13.607 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536839953605.png 1920*1080px
+2018-09-13 20:01:13.845 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536840073843.png 1920*1080px
+2018-09-13 20:01:32.152 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536840092148.png 1920*1080px
+2018-09-13 20:02:04.982 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536840124980.png 1920*1080px
+2018-09-13 20:02:51.582 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/u/6034653883?refer_flag=0000015010_&from=feed&loc=nickname&is_all=1 /home/xiaoan/myProject/img/1536840171579.png 1920*1080px
+2018-09-13 20:03:42.877 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/ /home/xiaoan/myProject/img/1536840222874.png 1920*1080px
+2018-09-13 20:04:19.129 [INFO ] xiaoan.com.tool.PhantomTools - 获取截图命令结束,commend:phantomjs rasterize.js https://weibo.com/ /home/xiaoan/myProject/img/1536840259127.png 1920*1080px

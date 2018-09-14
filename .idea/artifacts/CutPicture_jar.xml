@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="CutPicture:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CutPicture_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CutPicture.jar">
+        <element id="module-output" name="CutPicture" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.0.6" />
+        <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.0.6" />
+        <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
+        <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.5" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/rasterize.js" />
+      <element id="file-copy" path="$PROJECT_DIR$/README.md" />
+    </root>
+  </artifact>
+</component>

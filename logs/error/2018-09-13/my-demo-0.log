@@ -1,0 +1,83 @@
+2018-09-13 15:28:10.796 [ERROR] xiaoan.com.LogTest - logback的--error日志--输出了
+2018-09-13 15:34:19.055 [ERROR] xiaoan.com.LogTest - logback的--error日志--输出了
+2018-09-13 16:14:27.634 [ERROR] xiaoan.com.tool.PhantomTools - 获取网页截图失败,url: https://www.thepaper.cn/
+2018-09-13 16:33:35.943 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 16:34:56.661 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 16:37:28.655 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 18:08:50.511 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 18:09:04.898 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 18:09:22.563 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 18:09:50.897 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 18:10:43.229 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:77) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:106) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:136) [classes/:na]
+2018-09-13 19:40:23.316 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:80) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:111) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:141) [classes/:na]
+2018-09-13 19:40:46.908 [ERROR] xiaoan.com.tool.PhantomTools - 关闭进程异常
+java.io.IOException: Stream closed
+	at java.io.BufferedReader.ensureOpen(BufferedReader.java:122) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[na:1.8.0_151]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[na:1.8.0_151]
+	at xiaoan.com.tool.PhantomTools.close(PhantomTools.java:80) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.printUrlScreen2jpg(PhantomTools.java:111) [classes/:na]
+	at xiaoan.com.tool.PhantomTools.main(PhantomTools.java:141) [classes/:na]
